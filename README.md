@@ -12,7 +12,7 @@
 </p>
 ---
 
-<h3 align="center">A passionate BSIT Student website developer and Creative Designer 🚀</h3>
+<h3 align="center">A passionate BSIT Student website developer and Creative Designer / Creative Video Editor 🚀</h3>
 
 ---
 
