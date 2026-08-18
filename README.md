@@ -29,7 +29,5 @@ A passionate BSIT Student Website Developer and Creative Designer / Video Editor
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Acepj&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Acepj&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
