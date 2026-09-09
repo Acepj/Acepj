@@ -20,8 +20,3 @@ A passionate BSIT Student Website Developer and Creative Designer / Video Editor
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Acepj&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
